@@ -396,8 +396,7 @@ ul {
             transform: none;
     width: 70%;
     background: rgba(0, 0, 0, 0.5);
-    padding: 20px;
-    margin: 70px auto 0; }
+    padding: 20px; }
     .content .content__img img {
       width: 100%;
       height: auto; } }
