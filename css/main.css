@@ -84,6 +84,15 @@ a {
 ul {
   list-style: none; }
 
+.main-bg-wrap {
+  background: url(../images/img_bg.jpg);
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: -2; }
+
 .main-bg {
   position: fixed;
   top: 0;
@@ -277,6 +286,8 @@ ul {
       padding-right: 10px; } }
 
 @media screen and (max-width: 768px) {
+  .main-bg {
+    display: none; }
   .header-block {
     overflow: hidden; }
     .header-block nav {
