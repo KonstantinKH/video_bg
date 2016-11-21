@@ -362,7 +362,8 @@ ul {
     width: 70%;
     background: rgba(0, 0, 0, 0.5);
     padding: 20px;
-    margin-top: 150px; }
+    margin-top: 150px;
+    margin-bottom: 100px; }
     .content .content__img {
       text-align: center;
       padding: 10px; }
@@ -385,7 +386,7 @@ ul {
     width: 70%;
     background: rgba(0, 0, 0, 0.5);
     padding: 20px;
-    margin: 70px auto 0; } }
+    margin: 70px auto 70px; } }
 
 @media screen and (max-width: 450px) {
   .content {
