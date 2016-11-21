@@ -361,7 +361,8 @@ ul {
     width: 70%;
     background: rgba(0, 0, 0, 0.5);
     padding: 20px;
-    margin-top: 150px; }
+    margin-top: 150px;
+    margin-bottom: 100px; }
     .content .content__img {
       text-align: center;
       padding: 10px; }
