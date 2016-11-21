@@ -110,6 +110,7 @@ ul {
 
 .main-bg-wrap {
   background: url(../images/img_bg.jpg);
+  background-size: cover;
   position: fixed;
   top: 0;
   left: 0;
