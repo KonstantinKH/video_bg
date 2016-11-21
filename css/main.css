@@ -384,7 +384,7 @@ ul {
     width: 70%;
     background: rgba(0, 0, 0, 0.5);
     padding: 20px;
-    margin: 70px auto 0; } }
+    margin: 70px auto 100px; } }
 
 @media screen and (max-width: 450px) {
   .content {
